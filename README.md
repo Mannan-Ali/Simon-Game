@@ -11,7 +11,7 @@ https://mannan-ali.github.io/Simon-Game/
 
 ## Features
 
-- #### Visual and audio feedback for each color.
+- Visual and audio feedback for each color.
 - Randomly generated sequences of colors.
 - Increasing difficulty as the sequence gets longer.
 - Restart the game if the player makes a mistake.
